@@ -56,13 +56,13 @@
           </div>
           <div class="flex flex-col justify-center items-center">
             <h2 class="text-5xl font-bold text-center">Bonjour</h2>
-            <p class="lg:px-64 mt-24 text-xl">
+            <p class="lg:pl-44 lg:pr-20 mt-24 text-xl">
               Je suis
               <i class="bg-white rounded text-black px-2">
                 Gabriel Etolo Nguini
               </i>
               , webdesigner passionné et développeur
-              <i class="bg-white rounded text-black px-2">NuxtJS</i>. Depuis
+              <i class="bg-white rounded text-black px-2">NuxtJS</i>.<br> Depuis
               trois ans, je plonge dans le monde fascinant du
               <i class="bg-white rounded text-black px-2">webdesign</i> et du
               développement web, un domaine où je peux fusionner ma passion pour
